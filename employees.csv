@@ -1,0 +1,9 @@
+employee_id,name,department,salary
+101,Amit Sharma,IT,35000
+102,Priya Patil,HR,30000
+103,Rahul Verma,IT,40000
+104,Neha Joshi,Finance,32000
+105,Sneha Kulkarni,IT,45000
+103,Rahul Verma,IT,40000
+106,Arjun Desai,Finance,invalid
+107,Kavya Shah,HR,38000
